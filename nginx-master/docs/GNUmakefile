@@ -39,9 +39,12 @@ $(TEMP)/$(NGINX)/CHANGES:	docs/dtd/changes.dtd			\
 docs/xslt/changes.xslt:		docs/xsls/changes.xsls
 
 	$(XSLS) -o $@ $<
+<<<<<<< HEAD
 
 
 
 
 
 # this is comment
+=======
+>>>>>>> 650f8b6f... just added the nging
